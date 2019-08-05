@@ -2902,10 +2902,10 @@ pify@^3.0.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
   integrity sha1-5aSs0sEB/fPZpNB/DbxNtJ3SgXY=
 
-pnpm@3.6.1:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-3.6.1.tgz#b808b87746d7027033190c187906693ccdfe32d6"
-  integrity sha512-XFvoO6kuglqLbzAzLrwscCDwH/Al4WnXhhKy5JXO6ERNgAwaQcJOFX9Fbj+qVgzmSn5Lf3MSAbrEVGAxWM4Kjw==
+pnpm@3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-3.6.2.tgz#cb8d1764bb5efaa857fb662da7d2b5ee3a5507e0"
+  integrity sha512-/UW87zxOU3p60deTeo94GX/ZR6ph1tGDDZmCnIFvo2gMsAaWAM/nePuAdT/RZ3cbSJfG3+/HXxsYOxetAjC/Sg==
 
 prepend-http@^1.0.1:
   version "1.0.4"
@@ -3256,10 +3256,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@19.22.2:
-  version "19.22.2"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.22.2.tgz#45849a4d60b02151f782d9e75a60aafbea371f93"
-  integrity sha512-g3nGhbiI/94qmfUqfZnjz3ZmW3pDnMqi9L8hur7ZD66r2+O32Kc1ZnA56/m2AqVnnHCI9Y4x+pEN9YnbCOpb7A==
+renovate@19.22.6:
+  version "19.22.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-19.22.6.tgz#9c26122f9cb1d9f7a30cd36361820e4cd9cba7d1"
+  integrity sha512-8oMh00w/NqvOE+ucd6XDumPnlBE8n8PxKfH2tIX4Fu6K/MK3vKiQ5th3E4Z+ivfz/0nsMkRoJqGOqcOdg3vZtA==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@sindresorhus/is" "1.0.0"
@@ -3304,7 +3304,7 @@ renovate@19.22.2:
     p-all "2.1.0"
     parse-diff "0.5.1"
     parse-link-header "1.0.1"
-    pnpm "3.6.1"
+    pnpm "3.6.2"
     registry-auth-token "4.0.0"
     safe-regex "2.0.2"
     semver "6.3.0"
