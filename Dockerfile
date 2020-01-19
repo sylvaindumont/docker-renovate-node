@@ -4,6 +4,7 @@ COPY package.json yarn.lock /
 
 RUN apk add --quiet --no-cache \
     git \
+    bash \
   && apk add --quiet --no-cache --virtual .gyp \
     python \
     build-base \
