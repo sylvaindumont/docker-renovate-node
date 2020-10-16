@@ -63,15 +63,20 @@
   dependencies:
     tslib "2.0.0"
 
-"@sindresorhus/is@3.1.2", "@sindresorhus/is@^3.1.1":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-3.1.2.tgz#548650de521b344e3781fbdb0ece4aa6f729afb8"
-  integrity sha512-JiX9vxoKMmu8Y3Zr2RVathBL1Cdu4Nt4MuNWemt1Nc06A0RAin9c5FArkhGsyMBWfCu4zj+9b+GxtjAnE4qqLQ==
+"@sindresorhus/is@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.0.0.tgz#2ff674e9611b45b528896d820d3d7a812de2f0e4"
+  integrity sha512-FyD2meJpDPjyNQejSjvnhpgI/azsQkA4lGbuu5BQZfjvJ9cbRZXzeWL2HceCekW4lixO9JPesIIQkSoLjeJHNQ==
 
 "@sindresorhus/is@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-3.0.0.tgz#78fabc5e295adb6e1ef57eaafe4cc5d7aa35b183"
   integrity sha512-kqA5I6Yun7PBHk8WN9BBP1c7FfN2SrD05GuVSEYPqDb4nerv7HqYfgBfMIKmT/EuejURkJKLZuLyGKGs6WEG9w==
+
+"@sindresorhus/is@^3.1.1":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-3.1.2.tgz#548650de521b344e3781fbdb0ece4aa6f729afb8"
+  integrity sha512-JiX9vxoKMmu8Y3Zr2RVathBL1Cdu4Nt4MuNWemt1Nc06A0RAin9c5FArkhGsyMBWfCu4zj+9b+GxtjAnE4qqLQ==
 
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.5"
@@ -2735,14 +2740,14 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@23.49.3:
-  version "23.49.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.49.3.tgz#fc4ffaf013e92b11ef3bfb12beacef6472e14457"
-  integrity sha512-/W8PEf8W7go0YciUKohO+PoYdK1m5GQ/TXyvE6xSZ9gF2kfcMhRz5PXyv9m4IUwd1ae8T2gIfRKCgeayidzz4w==
+renovate@23.49.6:
+  version "23.49.6"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-23.49.6.tgz#7b0a8e67b3954ac7fcaaac36c5dc3a3a6fe87c75"
+  integrity sha512-oH7oWIKrX2unR6ykTSBpyzfdwBSs5j9EdqD8YXNZPN+VHZNadGvFiRs/dpT1Bcj0BlTQVo2Hf4jyU89jvcQ+rw==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/ruby-semver" "0.2.1"
-    "@sindresorhus/is" "3.1.2"
+    "@sindresorhus/is" "4.0.0"
     "@yarnpkg/core" "2.3.1"
     "@yarnpkg/parsers" "2.3.0"
     aws-sdk "2.771.0"
@@ -2798,7 +2803,7 @@ renovate@23.49.3:
     slugify "1.4.5"
     toml "3.0.0"
     traverse "0.6.6"
-    upath "1.2.0"
+    upath "2.0.0"
     url-join "4.0.1"
     validate-npm-package-name "3.0.0"
     www-authenticate "0.6.2"
@@ -3503,10 +3508,10 @@ universalify@^1.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-1.0.0.tgz#b61a1da173e8435b2fe3c67d29b9adf8594bd16d"
   integrity sha512-rb6X1W158d7pRQBg5gkR8uPaSfiids68LTJQYOtEUhoJUWBdaQHsuT/EUduxXYxcrt4r5PJ4fuHW1MHT6p0qug==
 
-upath@1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/upath/-/upath-1.2.0.tgz#8f66dbcd55a883acdae4408af8b035a5044c1894"
-  integrity sha512-aZwGpamFO61g3OlfT7OQCHqhGnW43ieH9WZeP7QxN/G/jS4jfqUkZxoryvJgVPEcrl5NL/ggHsSmLMHuH64Lhg==
+upath@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/upath/-/upath-2.0.0.tgz#7234f3c1e7fd2bcb4f6aaba3e5565ee13ce6d287"
+  integrity sha512-ghi1XxsVYPOZPDsOZrfOJIwQU5I3JVYB3Q6IbBGn1KFeOa89i0nUy5tCEkY9pVm83U83qZ1QG40RQKGknllV4w==
 
 uri-js@^4.2.2:
   version "4.2.2"
