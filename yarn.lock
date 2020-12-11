@@ -2444,15 +2444,15 @@ p-map@4.0.0, p-map@^4.0.0:
   dependencies:
     aggregate-error "^3.0.0"
 
-p-queue@6.6.1:
-  version "6.6.1"
-  resolved "https://registry.yarnpkg.com/p-queue/-/p-queue-6.6.1.tgz#578891ada028a61371ec2692b26614d1b7d2b10a"
-  integrity sha512-miQiSxLYPYBxGkrldecZC18OTLjdUqnlRebGzPRiVxB8mco7usCmm7hFuxiTvp93K18JnLtE4KMMycjAu/cQQg==
+p-queue@6.6.2:
+  version "6.6.2"
+  resolved "https://registry.yarnpkg.com/p-queue/-/p-queue-6.6.2.tgz#2068a9dcf8e67dd0ec3e7a2bcb76810faa85e426"
+  integrity sha512-RwFpb72c/BhQLEXIZ5K2e+AhgNVmIejGlTgiB9MzZ0e93GRvqZ7uSi0dvRF7/XIXDeNkra2fNHBxTyPDGySpjQ==
   dependencies:
     eventemitter3 "^4.0.4"
-    p-timeout "^3.1.0"
+    p-timeout "^3.2.0"
 
-p-timeout@^3.1.0:
+p-timeout@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/p-timeout/-/p-timeout-3.2.0.tgz#c7e17abc971d2a7962ef83626b35d635acf23dfe"
   integrity sha512-rhIwUycgwwKcP9yTOOFK/AKsAopjjCakVqLHePO3CC6Mir1Z99xT+R63jZxAT5lFZLa2inS5h+ZS2GvR99/FBg==
@@ -2877,10 +2877,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@24.0.0:
-  version "24.0.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-24.0.0.tgz#a8c2dd1cc6c1935a224c1371afce22d081c83963"
-  integrity sha512-zrgKgnSmmm8a/YusxhP0KzPVZBfKDhsjde+XJoMzgD5nH/lm4zeVWqe7K/ryUaF99G4D/1rXC4u7rL54VhXdRA==
+renovate@24.0.1:
+  version "24.0.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-24.0.1.tgz#f9eee90ba8a9f9b345fe1996ac1fbf26ca4481dd"
+  integrity sha512-aO490m0htHqhoKXd1JkZ7OmfN8YSsIc6u9RyUZv10aRV4dW+wHietP+CYqdVbJWD+6WrtdwACQtE4L/9hqwQwA==
   dependencies:
     "@breejs/later" "4.0.2"
     "@iarna/toml" "2.2.5"
@@ -2929,7 +2929,7 @@ renovate@24.0.0:
     node-emoji "1.10.0"
     p-all "3.0.0"
     p-map "4.0.0"
-    p-queue "6.6.1"
+    p-queue "6.6.2"
     parse-diff "0.7.1"
     parse-link-header "1.0.1"
     redis "3.0.2"
