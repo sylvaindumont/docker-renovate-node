@@ -1423,10 +1423,10 @@ emoji-regex@9.2.2:
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
   integrity sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==
 
-emojibase-regex@5.1.2:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/emojibase-regex/-/emojibase-regex-5.1.2.tgz#96cc95e26b186866de1c42a16782d3242cc29c11"
-  integrity sha512-/n1k9npdzvJecnTy7qu324btGxWSi4GC4Uk9R4DLDc8CIuNx+a2RQLrDSL/0kOi0dIg4lP4h65wKICYGjyIDbw==
+emojibase-regex@5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/emojibase-regex/-/emojibase-regex-5.1.3.tgz#f0ef621ed6ec624becd2326f999fd4ea01b94554"
+  integrity sha512-gT8T9LxLA8VJdI+8KQtyykB9qKzd7WuUL3M2yw6y9tplFeufOUANg3UKVaKUvkMcRNvZsSElWhxcJrx8WPE12g==
 
 emojibase@5.2.0:
   version "5.2.0"
@@ -3212,10 +3212,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@25.35.5:
-  version "25.35.5"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-25.35.5.tgz#5603b2e54ad12628ac3146e6d1ed227068cb0ca0"
-  integrity sha512-Ge6+gxduXxbycj7N0ferrK5gt/FgJK2CygvME600iXpDIVwtLGHjtBGuOi6neAYhI1MVEo/XrpJvQJ4SWU5cmw==
+renovate@25.36.0:
+  version "25.36.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-25.36.0.tgz#18bd444dbb72a47b99f9856c32fa374a3eb3f19d"
+  integrity sha512-ooPQ15BJUbNgOilk6HlLXGtg6XD3KL/TwKFQgtane+LR0VmQX+DDhA5h3yGQuH8eflaK4BB/LEVdQfs0JWFSNA==
   dependencies:
     "@aws-sdk/client-ecr" "3.5.0"
     "@breejs/later" "4.0.2"
@@ -3241,7 +3241,7 @@ renovate@25.35.5:
     email-addresses "4.0.0"
     emoji-regex "9.2.2"
     emojibase "5.2.0"
-    emojibase-regex "5.1.2"
+    emojibase-regex "5.1.3"
     fast-safe-stringify "2.0.7"
     find-up "5.0.0"
     fs-extra "10.0.0"
